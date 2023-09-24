@@ -9,7 +9,7 @@ Before you use this project you only need to have Node.js installed in your comp
 https://nodejs.org/es/download/
 
 ### Git clone
-This will clone the project, install NPM packages and also the Cypres.io which is required to run the test. No Selenium Server is required.
+This will clone the project.
 ```
 $ git clone https://github.com/Kar1stan/MadLibs.git
 $ cd MadLibs
@@ -17,7 +17,7 @@ $ npm install
 ```
 
 ## 🚀 Run the project
-To run the tests using Chrome open terminal and run the command:
+To run the project open terminal and run the command:
 ```
 $ python madlibs.py
 ```
