@@ -19,5 +19,5 @@ $ npm install
 ## 🚀 Run the project
 To run the tests using Chrome open terminal and run the command:
 ```
-$ npm run madlibs.py
+$ python madlibs.py
 ```
