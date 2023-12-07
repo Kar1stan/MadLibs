@@ -13,7 +13,7 @@ This will clone the project.
 ```
 $ git clone https://github.com/Kar1stan/MadLibs.git
 $ cd MadLibs
-$ npm install
+$ pip install
 ```
 
 ## 🚀 Run the project
